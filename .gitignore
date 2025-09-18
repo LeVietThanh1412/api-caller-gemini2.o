@@ -7,7 +7,7 @@ yarn-error.log*
 # Environment variables
 .env.local
 .env.production
-
+.env
 # OS generated files
 .DS_Store
 .DS_Store?
@@ -43,3 +43,4 @@ build/
 # Temporary files
 tmp/
 temp/
+".env" 
